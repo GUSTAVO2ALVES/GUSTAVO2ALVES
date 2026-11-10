@@ -1,4 +1,5 @@
 # Gustavo Alves
+
 ### Data Engineer · Technical Leadership · Business Intelligence
 
 I connect business needs with reliable data solutions, from ingestion and transformation to analytical models and dashboards.
@@ -6,6 +7,15 @@ I connect business needs with reliable data solutions, from ingestion and transf
 Based in Curitiba, Brazil. My background spans data engineering, analytics, product, and project management. I combine hands-on development with technical guidance, prioritization, and collaboration across technical and business teams.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/gustavo-alves-201715131/)
+
+## Portfolio projects
+
+| Project | What it demonstrates | Validation |
+| --- | --- | --- |
+| [Incremental Data Pipeline Lab](https://github.com/GUSTAVO2ALVES/incremental-data-pipeline) | Incremental loading, safe reruns, late changes, quality checks and reconciliation | Python and SQLite; 8 behavioral tests passed locally |
+| [AWS Analytics Lab](https://github.com/GUSTAVO2ALVES/aws-analytics-lab) | Synthetic exports, full reconciliation, S3 manifests, DMS mappings and Redshift loading design | 7 tests passed locally; AWS configurations and SQL are documented templates, not cloud-tested |
+
+Both are independent demonstrations with synthetic data and original example code.
 
 ## What I work on
 
@@ -39,7 +49,7 @@ My product and project experience helps me connect technical decisions to the pe
 
 ## About this portfolio
 
-This profile introduces my professional focus. Demonstration projects will be identified as such and kept separate from professional experience. Any public examples will use independently written code and synthetic or openly licensed data, without employer or client information.
+This profile introduces my professional focus. Public projects are independent demonstrations, kept separate from professional experience. Examples use independently written code and synthetic data, without employer or client information.
 
 ---
 
@@ -56,6 +66,11 @@ Minha trajetória em produto e gestão de projetos complementa a atuação técn
 
 Sou formado em Engenharia de Produção e curso pós-graduação em Dados e Business Intelligence.
 
-Este espaço apresenta minhas competências sem divulgar informações de empregadores ou clientes. Projetos demonstrativos serão identificados e utilizarão código próprio e dados sintéticos ou com licença aberta.
+### Projetos demonstrativos
+
+- [Pipeline incremental](https://github.com/GUSTAVO2ALVES/incremental-data-pipeline): reexecução sem duplicação, tratamento de eventos atrasados e reconciliação. Oito testes passaram localmente.
+- [AWS Analytics Lab](https://github.com/GUSTAVO2ALVES/aws-analytics-lab): preparação e validação de dados, manifestos S3 e modelos de DMS e Redshift. Sete testes passaram localmente; os modelos de nuvem ainda não foram executados na AWS.
+
+Este espaço apresenta minhas competências sem divulgar informações de empregadores ou clientes. Todos os exemplos usam código novo e dados fictícios.
 
 </details>
